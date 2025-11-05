@@ -10,29 +10,26 @@
 
 <p align="center">
   <!-- Cloud -->
-  <img src="https://logolook.net/wp-content/uploads/2023/09/Amazon-Web-Services-Logo.png" width="60" height="60" alt="AWS"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="50" height="50" alt="VMware"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://images.icon-icons.com/159/PNG/256/logo_ubuntu_22359.png" width="50" height="50" alt="Ubuntu"/>
+  <img src="images/aws.png" width="60" height="60" alt="AWS"/>
+  <img src="images/VMware.svg" width="50" height="50" alt="VMware"/>
+  <img src="images/Linux.svg" width="50" height="50" alt="Linux"/>
+  <img src="images/Ubuntu.png" width="50" height="50" alt="Ubuntu"/>
 
   <!-- DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/>
+  <img src="images/Docker.svg" width="50" height="50" alt="Docker"/>
+  <img src="images/Kuberneates.svg" width="50" height="50" alt="Kubernetes"/>
+  <img src="images/teraform.svg" width="50" height="50" alt="Terraform"/>
   <img src="images/ansbile.png" width="50" height="50" alt="Ansible"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="images/git.svg" width="50" height="50" alt="Git"/>
   <img src="icons8-github-500.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins"/>
+  <img src="images/junkins.svg" width="50" height="50" alt="Jenkins"/>
   <img src="github-actions.svg" width="50" height="100" alt="github action"/>
-    <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="50" height="50" alt="Gitlab"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
-  
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" alt="Prometheus"/>
+  <img src="images/gitlab.png" width="50" height="50" alt="Gitlab"/>
+  <img src="images/Bash.svg" width="50" height="50" alt="Bash"/>
+  <img src="images/promsus.svg" width="50" height="50" alt="Prometheus"/>
 
   <!-- Networking & Systems -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows Server"/>
-  <img src="https://logodix.com/logo/1258753.png" width="50" height="80" alt="Active Directory"/>
+  <img src="images/windowsserver.svg" width="50" height="50" alt="Windows Server"/>
   <img src="cisco.svg" width="50" height="50" alt="Cisco"/>
 </p>
 
