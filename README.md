@@ -20,16 +20,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" height="50" alt="Kubernetes"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins"/>
+  <img src="https://images.seeklogo.com/logo-png/27/1/cisco-logo-png_seeklogo-273963.png" width="50" height="50" alt="github action"/>
+    <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="50" height="50" alt="Gitlab"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
+  
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="50" height="50" alt="Prometheus"/>
 
   <!-- Networking & Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows Server"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" width="50" height="50" alt="Active Directory"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" width="50" height="50" alt="Cisco"/>
+  <img src="https://logodix.com/logo/1258753.png" width="50" height="50" alt="Active Directory"/>
+  <img src="https://images.seeklogo.com/logo-png/27/1/cisco-logo-png_seeklogo-273963.png" width="50" height="50" alt="Cisco"/>
 </p>
 
 ---
