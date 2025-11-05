@@ -12,11 +12,11 @@
 
 <p align="center">
   <!-- Cloud -->
-   <img src="images/aws.png" width="150" height="150" alt="AWS"/>
-  <img src="" width="150" height="150" alt="AWS"/>
-  <img src="images/VMware.svg" width="100" height="100" alt="VMware"/>
-  <img src="images/Linux.svg" width="100" height="100" alt="Linux"/>
-  <img src="images/Ubuntu.png" width="100" height="100" alt="Ubuntu"/>
+   <img src="images/aws.png" width="100" height="100" alt="AWS"/>
+  
+  <img src="images/VMware.svg" width="80" height="80" alt="VMware"/>
+  <img src="images/Linux.svg" width="80" height="80" alt="Linux"/>
+  <img src="images/Ubuntu.png" width="80" height="80" alt="Ubuntu"/>
 </p>
 
 ### ⚙️ DevOps & Automation
