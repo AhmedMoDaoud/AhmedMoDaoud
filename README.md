@@ -15,7 +15,7 @@
   <img src="https://logolook.net/wp-content/uploads/2023/09/Amazon-Web-Services-Logo.png" width="60" height="60" alt="AWS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/Vmware_workstation_16_icon.svg" width="50" height="50" alt="VMware"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
-  <img src="https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2F6bsl2h7tia871.jpg%3Fwidth%3D1080%26crop%3Dsmart%26auto%3Dwebp%26s%3D6c85e71b9b8a72949c2915083b7318edda422f80" width="50" height="50" alt="Ubuntu"/>
+  <img src="https://images.icon-icons.com/159/PNG/256/logo_ubuntu_22359.png" width="50" height="50" alt="Ubuntu"/>
 
   <!-- DevOps -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" alt="Docker"/>
