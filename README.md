@@ -8,6 +8,8 @@
 
 ## 🧰 Tech Stack & Tools
 
+### ☁️ Cloud & Virtualization
+
 <p align="center">
   <!-- Cloud -->
   <img src="images/aws.png" width="100" height="100" alt="AWS"/>
@@ -15,6 +17,8 @@
   <img src="images/Linux.svg" width="50" height="50" alt="Linux"/>
   <img src="images/Ubuntu.png" width="50" height="50" alt="Ubuntu"/>
 </p>
+
+### ⚙️ DevOps & Automation
 <p align="center">
   <!-- DevOps -->
   <img src="images/Docker.svg" width="50" height="50" alt="Docker"/>
@@ -29,6 +33,10 @@
   <img src="images/Bash.svg" width="50" height="50" alt="Bash"/>
   <img src="images/promsus.svg" width="50" height="50" alt="Prometheus"/>
   <img src="images/grafana.png" width="50" height="50" alt="grafana"/>
+  </p>
+  
+  ### 🌐 Networking & Security
+  <p align="center">
   <!-- Networking & Systems -->
   <img src="images/windowsserver.svg" width="50" height="50" alt="Windows Server"/>
   <img src="images/cisco.svg" width="50" height="50" alt="Cisco"/>
