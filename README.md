@@ -27,7 +27,7 @@
   <img src="images/gitlab.png" width="50" height="50" alt="Gitlab"/>
   <img src="images/Bash.svg" width="50" height="50" alt="Bash"/>
   <img src="images/promsus.svg" width="50" height="50" alt="Prometheus"/>
-  <img src="images/grafana.png" width="60" height="60" alt="grafana"/>
+  <img src="images/grafana.png" width="50" height="50" alt="grafana"/>
   <!-- Networking & Systems -->
   <img src="images/windowsserver.svg" width="50" height="50" alt="Windows Server"/>
   <img src="images/cisco.svg" width="50" height="50" alt="Cisco"/>
