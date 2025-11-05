@@ -21,16 +21,16 @@
   <img src="images/teraform.svg" width="50" height="50" alt="Terraform"/>
   <img src="images/ansbile.png" width="50" height="50" alt="Ansible"/>
   <img src="images/git.svg" width="50" height="50" alt="Git"/>
-  <img src="icons8-github-500.svg" width="50" height="50" alt="GitHub"/>
+  <img src="images/icons8-github-500.svg" width="50" height="50" alt="GitHub"/>
   <img src="images/junkins.svg" width="50" height="50" alt="Jenkins"/>
-  <img src="github-actions.svg" width="50" height="100" alt="github action"/>
+  <img src="images/github-actions.svg" width="50" height="100" alt="github action"/>
   <img src="images/gitlab.png" width="50" height="50" alt="Gitlab"/>
   <img src="images/Bash.svg" width="50" height="50" alt="Bash"/>
   <img src="images/promsus.svg" width="50" height="50" alt="Prometheus"/>
 
   <!-- Networking & Systems -->
   <img src="images/windowsserver.svg" width="50" height="50" alt="Windows Server"/>
-  <img src="cisco.svg" width="50" height="50" alt="Cisco"/>
+  <img src="images/cisco.svg" width="50" height="50" alt="Cisco"/>
 </p>
 
 ---
