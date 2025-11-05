@@ -8,8 +8,6 @@
 
 ## 🧰 Tech Stack & Tools
 
-## 🧰 Tech Stack
-
 <p align="center">
   <!-- Cloud -->
   <img src="https://logolook.net/wp-content/uploads/2023/09/Amazon-Web-Services-Logo.png" width="60" height="60" alt="AWS"/>
