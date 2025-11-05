@@ -23,7 +23,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" alt="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="50" height="50" alt="Jenkins"/>
-  <img src="https://images.seeklogo.com/logo-png/42/1/github-actions-logo-png_seeklogo-428028.png" width="80" height="200" alt="github action"/>
+  <img src="github-actions.svg" width="80" height="200" alt="github action"/>
     <img src="https://images.icon-icons.com/2699/PNG/512/gitlab_logo_icon_169112.png" width="50" height="50" alt="Gitlab"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
   
