@@ -33,7 +33,7 @@
   <!-- Networking & Systems -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="50" height="50" alt="Windows Server"/>
   <img src="https://logodix.com/logo/1258753.png" width="50" height="80" alt="Active Directory"/>
-  <img src="https://images.seeklogo.com/logo-png/27/1/cisco-logo-png_seeklogo-273963.png" width="50" height="50" alt="Cisco"/>
+  <img src="cisco.svg" width="50" height="50" alt="Cisco"/>
 </p>
 
 ---
