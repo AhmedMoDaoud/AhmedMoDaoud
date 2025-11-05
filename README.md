@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- Cloud -->
-  <img src="https://logolook.net/wp-content/uploads/2023/09/Amazon-Web-Services-Logo.png" width="50" height="50" alt="AWS"/>
+  <img src="https://logolook.net/wp-content/uploads/2023/09/Amazon-Web-Services-Logo.png" width="60" height="60" alt="AWS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vmware/vmware-original.svg" width="50" height="50" alt="VMware"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
