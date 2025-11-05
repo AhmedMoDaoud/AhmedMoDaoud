@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- Cloud -->
-   <img src="images/aws.png" width="100" height="100" alt="AWS"/>
+   <img src="images/aws.png" width="120" height="120" alt="AWS"/>
   
   <img src="images/VMware.svg" width="80" height="80" alt="VMware"/>
   <img src="images/Linux.svg" width="80" height="80" alt="Linux"/>
