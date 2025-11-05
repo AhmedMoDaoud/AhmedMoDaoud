@@ -14,7 +14,8 @@
   <img src="images/VMware.svg" width="50" height="50" alt="VMware"/>
   <img src="images/Linux.svg" width="50" height="50" alt="Linux"/>
   <img src="images/Ubuntu.png" width="50" height="50" alt="Ubuntu"/>
-
+</p>
+<p align="center">
   <!-- DevOps -->
   <img src="images/Docker.svg" width="50" height="50" alt="Docker"/>
   <img src="images/Kuberneates.svg" width="50" height="50" alt="Kubernetes"/>
