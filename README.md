@@ -105,7 +105,7 @@ Automate provisioning and configuration of Linux servers — installs web server
 - Jenkins & CI/CD Pipelines
 
 ---
-![Snake Animation](https://github.com/A-Hemeda/A-Hemeda/blob/output/snake-dark.svg)
+![Snake Animation](images/snake-dark.svg)
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedmohameddaoud/)  
