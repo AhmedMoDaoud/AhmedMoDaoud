@@ -13,11 +13,11 @@
 <p align="center">
   <!-- Cloud -->
    <img src="images/aws.png" width="120" height="120" alt="AWS"/>
-  <img src="images/clear.png" width="50" height="50" alt="AWS"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/VMware.svg" width="80" height="80" alt="VMware"/>
-  <img src="images/clear.png" width="50" height="50" alt="AWS"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/Linux.svg" width="80" height="80" alt="Linux"/>
-  <img src="images/clear.png" width="50" height="50" alt="AWS"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/Ubuntu.png" width="80" height="80" alt="Ubuntu"/>
 </p>
 
@@ -25,16 +25,27 @@
 <p align="center">
   <!-- DevOps -->
   <img src="images/Docker.svg" width="50" height="50" alt="Docker"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/Kuberneates.svg" width="50" height="50" alt="Kubernetes"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/teraform.svg" width="50" height="50" alt="Terraform"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/ansbile.png" width="50" height="50" alt="Ansible"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/git.svg" width="50" height="50" alt="Git"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/icons8-github-500.svg" width="50" height="50" alt="GitHub"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/junkins.svg" width="50" height="50" alt="Jenkins"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/github-actions.svg" width="50" height="100" alt="github action"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/gitlab.png" width="50" height="50" alt="Gitlab"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/Bash.svg" width="50" height="50" alt="Bash"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/promsus.svg" width="50" height="50" alt="Prometheus"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/grafana.png" width="50" height="50" alt="grafana"/>
   </p>
   
@@ -42,6 +53,7 @@
   <p align="center">
   <!-- Networking & Systems -->
   <img src="images/windowsserver.svg" width="50" height="50" alt="Windows Server"/>
+    <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/cisco.svg" width="50" height="50" alt="Cisco"/>
 </p>
 
