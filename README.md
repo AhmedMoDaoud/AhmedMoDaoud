@@ -13,9 +13,11 @@
 <p align="center">
   <!-- Cloud -->
    <img src="images/aws.png" width="120" height="120" alt="AWS"/>
-  
+  <img src="images/clear.png" width="120" height="120" alt="AWS"/>
   <img src="images/VMware.svg" width="80" height="80" alt="VMware"/>
+  <img src="images/clear.png" width="120" height="120" alt="AWS"/>
   <img src="images/Linux.svg" width="80" height="80" alt="Linux"/>
+  <img src="images/clear.png" width="120" height="120" alt="AWS"/>
   <img src="images/Ubuntu.png" width="80" height="80" alt="Ubuntu"/>
 </p>
 
