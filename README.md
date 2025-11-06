@@ -24,37 +24,37 @@
 ### ⚙️ DevOps & Automation
 <p align="center">
   <!-- DevOps -->
-  <img src="images/Docker.svg" width="50" height="50" alt="Docker"/>
+  <img src="images/Docker.svg" width="60" height="60" alt="Docker"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/Kuberneates.svg" width="50" height="50" alt="Kubernetes"/>
+  <img src="images/Kuberneates.svg" width="60" height="60" alt="Kubernetes"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/teraform.svg" width="50" height="50" alt="Terraform"/>
+  <img src="images/teraform.svg" width="60" height="60" alt="Terraform"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/ansbile.png" width="50" height="50" alt="Ansible"/>
+  <img src="images/ansbile.png" width="60" height="60" alt="Ansible"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/git.svg" width="50" height="50" alt="Git"/>
+  <img src="images/git.svg" width="60" height="60" alt="Git"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/icons8-github-500.svg" width="50" height="50" alt="GitHub"/>
+  <img src="images/icons8-github-500.svg" width="60" height="60" alt="GitHub"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/junkins.svg" width="50" height="50" alt="Jenkins"/>
+  <img src="images/junkins.svg" width="60" height="60" alt="Jenkins"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/github-actions.svg" width="50" height="100" alt="github action"/>
+  <img src="images/github-actions.svg" width="60" height="120" alt="github action"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/gitlab.png" width="50" height="50" alt="Gitlab"/>
+  <img src="images/gitlab.png" width="60" height="60" alt="Gitlab"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/Bash.svg" width="50" height="50" alt="Bash"/>
+  <img src="images/Bash.svg" width="60" height="60" alt="Bash"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/promsus.svg" width="50" height="50" alt="Prometheus"/>
+  <img src="images/promsus.svg" width="60" height="60" alt="Prometheus"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/grafana.png" width="50" height="50" alt="grafana"/>
+  <img src="images/grafana.png" width="60" height="60" alt="grafana"/>
   </p>
   
   ### 🌐 Networking & Security
   <p align="center">
   <!-- Networking & Systems -->
-  <img src="images/windowsserver.svg" width="50" height="50" alt="Windows Server"/>
+  <img src="images/windowsserver.svg" width="60" height="60" alt="Windows Server"/>
     <img src="images/clear.png" width="30" height="30" alt="AWS"/>
-  <img src="images/cisco.svg" width="50" height="50" alt="Cisco"/>
+  <img src="images/cisco.svg" width="60" height="60" alt="Cisco"/>
 </p>
 
 ---
