@@ -76,6 +76,7 @@ Automate provisioning and configuration of Linux servers — installs web server
 ---
 
 ### 🏆 Certifications & Courses
+- 🎓 **AWS Solution Architect Associate Certification** — Amazon Web Services Cloud Architecture, Cloud Data, Cloud Infrastructure, Cloud Services
 - 🎓 **AWS Cloud Practitioner** — Cloud concepts, EC2, S3, IAM, Networking, Billing  
 - 🛡️ **Fortinet Certified Associate in Cybersecurity**  
 - 🌐 **CCNA & CCNP ENCOR** — Routing, Switching, IP Services  
