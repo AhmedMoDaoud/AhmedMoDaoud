@@ -12,6 +12,8 @@
 
 <p align="center">
   <!-- Cloud -->
+  <img src="images/saa.png" width="100" height="100" alt="AWS"/>
+  <img src="images/clear.png" width="30" height="30" alt="AWS"/>
    <img src="images/aws.png" width="100" height="100" alt="AWS"/>
   <img src="images/clear.png" width="30" height="30" alt="AWS"/>
   <img src="images/VMware.svg" width="60" height="60" alt="VMware"/>
